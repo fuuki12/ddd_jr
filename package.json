@@ -1,0 +1,27 @@
+{
+  "name": "ddd_jr",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fuuki12/ddd_jr.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fuuki12/ddd_jr/issues"
+  },
+  "homepage": "https://github.com/fuuki12/ddd_jr#readme",
+  "devDependencies": {
+    "@types/node": "^18.14.6",
+    "typescript": "^4.9.5"
+  },
+  "dependencies": {
+    "ts-auto-mock": "^3.6.4"
+  }
+}
